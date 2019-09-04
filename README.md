@@ -1,16 +1,14 @@
-#http://keychat.online
 
-# keyChat
-一个基于golang的匿名聊天室程序
 
-随意输入用户名 和 房间号，会根据房间号进入聊天室
 
-聊天所有的记录不会被保存。
+一个基于golang的 聊天室程序
 
-this is a anonymous chatting program,
+给自己 起一个用户名，然后会根据房间号进入聊天室
 
-input a username and a roomid then you can go to a chatting room which is identified by the roomid that you typed.
+可以发送文字信息和图片，表情，音频，视频相关功能开发中
 
-By beego and websocket
+聊天所有的记录保存到mysql
 
-[keyChat](http://keychat.online)
+
+
+
